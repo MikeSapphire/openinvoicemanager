@@ -134,3 +134,5 @@ MIT License – kann jeder benutzen
 ## Hinweis
 
 Das ist ein Lernprojekt. Der Code ist nicht perfekt aber er funktioniert. Verbesserungsvorschläge gerne als Issue oder Pull Request.
+
+Bei der Entwicklung nutze ich **Claude** (KI von Anthropic) als Unterstützung.

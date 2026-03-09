@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/d/Github/openinvoicemanager/OpenInvoiceManager/MainWindow.xaml.cs:*)",
+      "Bash(dotnet build:*)"
+    ]
+  }
+}
